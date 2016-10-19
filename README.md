@@ -1,5 +1,6 @@
 # Derechos-humanos-Adriana
 # Proyecto integrador sobre la clase 1 de web en la materia CSS
+# Bionic-LOVE
 
 **Diseñar los activos parael proyecto integrador que son:**
 
@@ -14,3 +15,5 @@
 -  espectacular
 
 **El pryecto se enfocara el derecho de matrimono** donde se tocara el tema del universo *Cyberpunk* donde los androides con emociones humanas y humanos reales pueden contraer nupcias  y viceversa.
+
+[Figma](https://www.figma.com/file/VPjK6B23gEzsZeJuJRhn29ZM/Sitio-pagina-principal)
