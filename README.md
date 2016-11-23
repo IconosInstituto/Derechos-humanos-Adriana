@@ -17,3 +17,4 @@
 **El pryecto se enfocara el derecho de matrimono** donde se tocara el tema del universo *Cyberpunk* donde los androides con emociones humanas y humanos reales pueden contraer nupcias  y viceversa.
 
 [Figma](https://www.figma.com/file/VPjK6B23gEzsZeJuJRhn29ZM/Sitio-pagina-principal?node-id=7%3A7)
+ [logotipo] (logotipo ahora si queda prueba 2 red.jpg)
