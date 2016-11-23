@@ -18,4 +18,4 @@
 
 [Figma](https://www.figma.com/file/VPjK6B23gEzsZeJuJRhn29ZM/Sitio-pagina-principal?node-id=7%3A7)
 
-[Logotipo](logotipo ahora si queda prueba 2 red.jpg)
+![Logotipo](logotipo ahora si queda prueba 2 red.jpg)
