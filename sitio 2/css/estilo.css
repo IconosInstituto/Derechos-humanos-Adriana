@@ -1,0 +1,139 @@
+*{margin; 0; pading; 0;}
+
+
+.menu {
+background: #000;
+height: 174px;}
+.menu2{
+    background:#463F45;
+    color: #fff;
+    //height: 60px;
+    padding: 15px;
+}
+
+
+
+
+
+
+.video{
+height: 50%;
+background: #463F45;
+}
+
+.barra{
+height:90px;
+background: #000;}
+
+a{
+text-decoration: none;
+color: #fff;}
+
+
+.imagen{
+margin-top: 12%}
+
+
+.imagen1{
+position: absolute;
+z-index: 9;
+top: 100%;
+height: 100px;}
+
+
+body {
+background: #463F45; }
+
+
+.imagen2 {
+position: absolute;
+z-index: 9;
+top: 70%;
+height: 100px;
+text-align: center;}
+
+
+
+
+
+
+
+.destello {
+    height: 15px;
+ position: relative;
+    top: 3px;
+}
+
+.destello:hover{
+height: 20px;}
+
+
+.lineanueva{
+height: 30px;
+top: 1px;
+position: absolute;
+z-index: 1;
+margin-top: -13px;}
+
+.menutexto{
+    z-index: 3;
+background-image: url(../img/linea%20sitio%203.png);
+background-size: contain;
+background-repeat: no-repeat;}
+
+
+.lineaizquierdas {position: absolute;
+z-index: 9;
+    right: 1px;
+    width: 30%;
+}
+
+.imagengaleria{
+position: absolute;
+left: 19%;
+top:50%;
+transform: rotate(20deg);}
+
+imagengaleria img{
+  width: 100%;  
+
+}
+
+.imagengaleria2{
+position: absolute;
+left: 40%;
+top: 90%;
+transform: rotate(-20deg);}    
+
+imagengalaeria2 img{    
+    width: 100%;
+}
+
+
+
+.imagengaleria3{
+position: absolute;
+left: 1%;
+top: 90%;    
+transform: rotate3d(-20deg);}    
+
+imagengaleria3 img{    
+    width: 100%;
+
+}
+
+
+section.bigi{     
+    box-sizing: border-box;    
+    padding: 5%;
+    height: 50%;
+    width: 100%;    
+   float: left;
+    text-align: center;
+}
+
+
+section.bigi img{    
+    width: 90%;
+
+}
